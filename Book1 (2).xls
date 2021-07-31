@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties>
+<Styles>
+<Style ss:ID="txtCol">
+<NumberFormat ss:Format="@"/>
+</Style>
+<Style ss:ID="shortDate">
+<NumberFormat ss:Format="dd/mm/yyyy;@"/>
+</Style>
+<Style ss:ID="boldTxt">
+<Font ss:Bold="1"/>
+<NumberFormat ss:Format="@"/>
+</Style>
+</Styles>
+<Worksheet ss:Name="Sheet1">
+<Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="166" x:FullColumns="1" x:FullRows="1"><Column ss:Index="1" ss:StyleID="txtCol"/>
+<Column ss:Index="5" ss:StyleID="shortDate"/>
+<Column ss:Index="7" ss:StyleID="txtCol"/>
+<Column ss:Index="8" ss:StyleID="txtCol"/>
+<Row>
+<Cell ss:StyleID="boldTxt"><Data ss:Type="String">Do Ty</Data></Cell>
+<Cell ss:StyleID="boldTxt"><Data ss:Type="String">Doc Number</Data></Cell>
+<Cell ss:StyleID="boldTxt"><Data ss:Type="String">Batch Number</Data></Cell>
+<Cell ss:StyleID="boldTxt"><Data ss:Type="String">Address Number</Data></Cell>
+<Cell ss:StyleID="boldTxt"><Data ss:Type="String">G/L Date</Data></Cell>
+<Cell ss:StyleID="boldTxt"><Data ss:Type="String">LT 1 Amount</Data></Cell>
+<Cell ss:StyleID="boldTxt"><Data ss:Type="String">Explanation</Data></Cell>
+<Cell ss:StyleID="boldTxt"><Data ss:Type="String">Explanation -Remark-</Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772644</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">27334</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772644</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772645</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462103</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772645</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772646</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">457026</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772646</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772647</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">453304</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772647</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772648</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">48970</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772648</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772649</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772649</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772650</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772650</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772651</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">450860</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-15834.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772651</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772652</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456253</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-21112.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772652</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772653</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772653</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772654</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772654</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772655</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772655</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772656</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772656</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772657</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454469</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772657</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772658</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454469</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772658</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772659</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454469</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772659</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772660</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454469</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772660</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21006008</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376079</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">27334</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-01</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21006008</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772683</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">39469</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772683</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772684</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456729</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772684</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772685</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456686</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772685</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772686</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">432534</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5109.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772686</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772687</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772687</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772688</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772688</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772689</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772689</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772690</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772690</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772691</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772691</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772692</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772692</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772693</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454886</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772693</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21005692</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">375491</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462142</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">27442.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21005692</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21006055</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376079</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">461283</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-02</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">54884.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21006055</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772695</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462142</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-03</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772695</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772696</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462142</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-03</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772696</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772697</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456607</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-03</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5806.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772697</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772698</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454469</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-03</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772698</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772699</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-03</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772699</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772700</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458756</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-05</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772700</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772701</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458756</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-05</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772701</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772702</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">459519</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-05</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772702</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772703</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-05</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772703</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772704</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456718</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-05</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772704</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772705</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454589</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-05</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772705</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21005726</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">375491</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462160</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-05</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">54884.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21005726</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772707</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">459581</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772707</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772708</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462307</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5109.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772708</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772709</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454067</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5109.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772709</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772710</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455077</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772710</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772711</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455871</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772711</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772712</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455717</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772712</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772713</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455717</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772713</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772714</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455717</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772714</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772715</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">453786</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772715</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772716</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456191</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772716</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772717</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456183</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772717</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772718</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">38457</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772718</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772719</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454312</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5806.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772719</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772720</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454312</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5806.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772720</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21005840</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">375770</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">459581</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-06</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21005840</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772723</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">429168</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-07</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-82326.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772723</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772724</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">440272</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-07</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772724</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772725</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455264</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-07</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772725</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772726</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">450860</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-07</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772726</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772727</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">237676</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-07</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-31668.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772727</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772728</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-07</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772728</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21006004</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376079</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">429168</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-07</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">82326.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21006004</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772729</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">453204</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772729</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772730</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462216</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772730</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772731</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462217</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-7258.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772731</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772732</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456253</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772732</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772733</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">453304</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772733</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772734</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">460859</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772734</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772735</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">453786</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772735</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772736</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">237676</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-10556.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772736</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772737</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">38457</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772737</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772738</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">38457</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-42224.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772738</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772739</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462134</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-2639.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772739</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772740</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">457402</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772740</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772741</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455252</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-2639.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772741</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772835</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">38457</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-10556.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772835</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772836</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">460587</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-08</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-10556.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772836</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772742</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462374</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772742</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772743</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456281</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-10556.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772743</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772744</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">440272</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772744</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772745</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">440272</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772745</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772746</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455717</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772746</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772747</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">449842</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772747</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772748</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">38457</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772748</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772749</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">453725</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-10556.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772749</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772750</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">38457</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772750</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772751</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">16423</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772751</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21006329</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376484</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462374</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21006329</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21006366</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376558</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">459707</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-09</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">5109.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21006366</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772752</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454312</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-10</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772752</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772753</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">245390</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-10</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-12760.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772753</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772755</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462323</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772755</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772756</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456452</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772756</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772757</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456452</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772757</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772758</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454016</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772758</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772759</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454016</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772759</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772760</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454016</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772760</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772761</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">449136</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772761</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772762</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456361</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772762</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772763</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">456361</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772763</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772764</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454886</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772764</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772765</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">453786</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-10556.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772765</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772766</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454312</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5806.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772766</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772767</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">38457</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-7917.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772767</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772830</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454841</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-26390.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772830</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21006170</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376299</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462323</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-12</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21006170</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772769</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462373</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-27442.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772769</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772770</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458048</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772770</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772771</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458048</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772771</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772772</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458048</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772772</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772773</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458048</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772773</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772774</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">454575</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772774</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772775</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458048</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772775</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772776</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">435000</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-26390.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772776</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772777</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">450860</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-26390.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772777</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772778</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772778</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772779</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772779</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772780</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772780</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772781</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772781</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772782</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772782</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772783</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772783</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772784</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772784</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772785</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772785</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772786</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452433</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772786</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772787</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">245390</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-961.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772787</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21006324</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376484</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">245390</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">13721.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21006324</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21006326</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376484</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462373</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-13</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">27442.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21006326</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772788</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462275</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-6334.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772788</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772789</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462283</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772789</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772790</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">440272</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772790</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772791</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">440272</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772791</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772792</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455264</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772792</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772793</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455264</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772793</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772794</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">455264</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772794</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772795</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458048</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772795</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772796</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">453786</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772796</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772797</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458048</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772797</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772798</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458048</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772798</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772799</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">48970</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772799</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772800</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">449842</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-10556.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772800</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772801</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458277</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772801</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772802</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458277</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772802</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772803</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458277</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772803</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772804</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458277</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772804</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772805</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458277</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772805</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772806</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458277</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772806</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772807</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458277</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772807</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772808</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">462306</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-14</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772808</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772810</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">38081</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-15</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772810</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772811</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">38081</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-15</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772811</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772812</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">453786</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-15</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772812</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772813</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">453786</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-15</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772813</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772814</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">237676</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-15</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-15834.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772814</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772815</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">458277</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-15</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-2639.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772815</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">772816</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376543</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">447882</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-15</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-87087.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RC 0772816</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21000333</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376254</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">452807</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-15</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-2639.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RM 21000333</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21000334</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376254</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">460859</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-15</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">-5278.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RM 21000334</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="1"><Data ss:Type="String">AE</Data></Cell>
+<Cell ss:Index="2"><Data ss:Type="Number">21006151</Data></Cell>
+<Cell ss:Index="3"><Data ss:Type="Number">376254</Data></Cell>
+<Cell ss:Index="4"><Data ss:Type="Number">460236</Data></Cell>
+<Cell ss:Index="5"><Data ss:Type="DateTime">2021-07-15</Data></Cell>
+<Cell ss:Index="6"><Data ss:Type="Number">26838.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Offset By Document RI 21006151</Data></Cell>
+<Cell ss:Index="8"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="6"><Data ss:Type="Number">-879467.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Column Total</Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="6"><Data ss:Type="Number">-879467.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Ledger Total</Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="6"><Data ss:Type="Number">-879467.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Posted Total</Data></Cell>
+</Row>
+<Row>
+<Cell ss:Index="6"><Data ss:Type="Number">0.00</Data></Cell>
+<Cell ss:Index="7"><Data ss:Type="String">Unposted Total</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
